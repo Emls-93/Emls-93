@@ -1,0 +1,38 @@
+.body{
+    background-color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+    font-style:initial;
+}
+
+.div-form{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+/* Para telas grandes */
+@media (min-width: 1024px) {
+    .container {
+      width: 100%;
+    }
+  }
+  
+  /* Para telas menores */
+  @media (max-width: 768px) {
+    .container {
+      width: 90%;
+    }
+  }
+  
+  /* Para telas pequenas, como celulares */
+  @media (max-width: 480px) {
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+  }
+  
