@@ -37,7 +37,7 @@ Portuguese 🇵🇹 (C2) · English 🇬🇧 (B2) · Spanish 🇪🇸 (A2) · Fr
 ---
 
 ### 📫 Get in Touch
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erosmagno)  
 - 📧 eros@example.com (replace with your real contact)  
 - 🌐 [Portfolio](#) (coming soon!)
 
