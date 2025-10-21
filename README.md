@@ -1,16 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Eros
 
-<!--
-**Emls-93/Emls-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Legal-Tech Enthusiast | Multilingual Professional**
 
-Here are some ideas to get you started:
+I'm a lawyer turned developer passionate about building tech that makes life easier — from legal tools to apps that help immigrants in Portugal.  
+Currently focused on mastering the **MERN stack** and deploying real-world apps with modern frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+
+**Frontend:**  
+React · Vite · Material-UI · React Hook Form · Yup · i18next  
+
+**Backend:**  
+Node.js · Express · MongoDB (Mongoose) · JWT · Bcrypt  
+
+**Dev Tools:**  
+Git · GitHub · Postman · Docker · Firebase · Render · Vercel  
+
+**Others:**  
+Ruby on Rails · PostgreSQL · Axios · REST APIs  
+
+---
+
+### 🌍 Languages
+Portuguese 🇵🇹 (C2) · English 🇬🇧 (B2) · Spanish 🇪🇸 (A2) · French 🇫🇷 (A2)
+
+---
+
+### 🚀 Featured Projects
+
+- **[EventDash](https://github.com/Emls-93/EventDash):** Event management platform with authentication, dashboard, and role-based access.  
+- **NIF Registration Helper:** A web app to guide immigrants in Portugal through the NIF registration process.  
+- **Currency Exchange Wallet:** Real-time exchange and transaction tracker using Node.js and React.
+
+---
+
+### 📫 Get in Touch
+- 💼 [LinkedIn](#)  
+- 📧 eros@example.com (replace with your real contact)  
+- 🌐 [Portfolio](#) (coming soon!)
+
+---
+
+> _“Turning ideas into code that creates opportunity.”_
